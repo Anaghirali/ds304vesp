@@ -1,0 +1,26 @@
+{
+  "name": "ds304vesp",
+  "version": "1.0.0",
+  "description": "Usado para aula de DS304",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anaghirali/ds304vesp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anaghirali/ds304vesp/issues"
+  },
+  "homepage": "https://github.com/Anaghirali/ds304vesp#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {}
+}
